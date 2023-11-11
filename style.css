@@ -94,7 +94,7 @@ html, body{
     font-family: PP mori;
     font-weight: 300;
     margin-left: 6vw;
-    /* padding-top: 15vh; */
+    transition: all ease ;
 
 }
 .page1 > h2{
@@ -102,6 +102,7 @@ html, body{
     font-family: PP mori;
     font-weight: 300;
     margin-left: 24vw;
+    transition: all ease ;
 }
 .page1 video{
     width: 60%;

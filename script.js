@@ -42,10 +42,10 @@ document.addEventListener("mousemove",function(dets){
 
 gsap.from(".page1 h1,.page1 h2", {
     y: 10,
-    rotate: 10,
+    rotate: -2,
     opacity: 0,
     delay: 0.3,
-    duration: 0.7
+    duration: 0.5
 })
 
 var tl = gsap.timeline({
