@@ -1,0 +1,16 @@
+@font-face {
+    font-family: myFont;
+    src: url(Gilroy-Black.ttf)
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: myFont;
+}
+html, body{
+    width: 100%;
+    height: 100%;
+    
+}
